@@ -33,3 +33,18 @@ Rocío Ramírez
   - Registros no válidos (precios negativos o cero).
   - Duplicados.
   - Preparación para análisis (columnas nuevas, agrupaciones).
+ 
+### ¡Enhorabuena por conocer tu personalidad, no todos se atreven!
+- No te preocupes si eres de un tipo u otro, aquí abajo te dejamos algunos consejos.
+- ### Si eres introvertido:
+- Respeta tu necesidad de espacio: Los momentos a solas ayudan a procesar emociones, ideas y descansar de la sobreestimulación.
+- Exprésate a tu ritmo: Escribir, crear o comunicarte en grupos pequeños.
+- Sal de tu zona segura, poco a poco: Asistir a talleres, clubes o grupos con intereses afines.
+- Observa cuándo la soledad se transforma en aislamiento: Si evitas vínculos importantes o te genera malestar persistente, es momento de buscar apoyo.
+
+### "Ahora, si eres extrovertido:
+- Recuerda que no todo se construye hacia afuera: La introspección es una herramienta que equilibra la energía con dirección.
+- Aprende a leer el ritmo de los demás: Dar espacio y escuchar activamente fortalece tus relaciones.
+- Practica estar contigo sin estímulos: El silencio no es tu enemigo.
+- Cuida no usar la actividad para evitar emociones: Hacer pausas no te resta vitalidad, te la devuelve. 
+
