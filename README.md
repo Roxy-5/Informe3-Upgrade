@@ -46,5 +46,5 @@ No te preocupes si eres de un tipo u otro, aquí abajo te dejamos algunos consej
 - Recuerda que no todo se construye hacia afuera: La introspección es una herramienta que equilibra la energía con dirección.
 - Aprende a leer el ritmo de los demás: Dar espacio y escuchar activamente fortalece tus relaciones.
 - Practica estar contigo sin estímulos: El silencio no es tu enemigo.
-- Cuida no usar la actividad para evitar emociones: Hacer pausas no te resta vitalidad, te la devuelve. 
-
+- Cuida no usar la actividad para evitar emociones: Hacer pausas no te resta vitalidad, te la devuelve.
+### Tanto si encuentras calma en tu mundo interior como si te recargas en la energía de los demás, recuerda que tu forma de ser no necesita corregirse, sino comprenderse y cuidarse.
