@@ -7,8 +7,14 @@ Análisis de datos de la tabla.
 ### 🌍 Cómo usar
 
 1. Clona este repositorio.
-2. Instala las dependencias necesarias.
-3. Ejecuta el proyecto.
+2. Instala las dependencias necesarias:
+   - pandas
+   - numpy
+   - matplotlib
+   - seaborn
+   - scikit-learn (sklearn)
+   - scipy
+4. Ejecuta el proyecto.
 
 ### 🪐 Autor
 
